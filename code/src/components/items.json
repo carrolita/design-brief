@@ -1,0 +1,30 @@
+[
+  {
+    "imageUrl": "images/medium-image-puff-1.jpeg",
+    "imageAlt": "climbing frame",
+    "title": "The boy who Tamed the Sea",
+    "description": "At 5:30 am, on any morning I can handle it, I'll slip out of the dark mouth of my covers and creep through the silver lig...",
+    "writerImage": "images/writer-1.png"
+  },
+  {
+    "imageUrl": "images/medium-image-puff-2.png",
+    "imageAlt": "motorway",
+    "title": "The March of the Losers",
+    "description": "Around the world, the victims are becoming the abusers, and Donald Trump is their king",
+    "writerImage": "images/writer-2.jpeg"
+  },
+  {
+    "imageUrl": "images/medium-image-puff-4.jpeg",
+    "imageAlt": "person with his back turned",
+    "title": "The March of the Losers",
+    "description": "You cannot save everything when the fires comes to Northern California",
+    "writerImage": "images/writer-3.jpeg"
+  },
+  {
+    "imageUrl": "images/medium-image-puff-3.png",
+    "imageAlt": "two persons reading",
+    "title": "The Burning Season",
+    "description": "You cannot save everything when the fires comes to Northern California",
+    "writerImage": "images/writer-4.jpeg"
+  }
+]
